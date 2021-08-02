@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# The code to update github 
+# git add .
+# git commit -am "CustomeMessage"
+# git push
+
