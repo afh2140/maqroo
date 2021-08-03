@@ -26,4 +26,3 @@ Things you may want to cover:
 # git add .
 # git commit -am "CustomeMessage"
 # git push
-
